@@ -1,0 +1,1 @@
+{"jobID":"18e7bf12-c9a5-b8a3-a320-b10a21d3b762","spec":{"type":"policy","cause":{"Message":"","User":"Florencio Sarmiento \u003cflorencio.sarmiento@googlemail.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"semver:~1.19.x"},"remove":{}}}},"result":null}
